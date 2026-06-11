@@ -20,4 +20,4 @@
 - MS Cybersecurity & Information Assurance (WGU)
 - Active Directory automation with Python
 - Flask authentication and API security
-- AWS and Terraform labs
+- Ansible and Terraform labs
