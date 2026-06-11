@@ -1,23 +1,39 @@
-```
+<div align="center">
+<pre>
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
-                                                                                        
-```                                         
+                                                                                             
+</pre>
+</div>
+                                    
+<div align="left">
+<pre>
+$ whoami
+> W. Lucas Franklin
+---
+$ focus
+> Cybersecurity
+> Systems Administration
+> Automation
+---
+$ building
+> Secure Flask APIs
+> AD Automation
+> Cloud Infrastructure
+---
+$ contact
+> LinkedIn: linkedin.com/in/w-lucas-franklin/
+</pre>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WLucasFranklin&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-## Certifications
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- ISC2 Certified in Cybersecurity (CC)
+<p align="center">
+  <img height="300" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLucasFranklin&theme=dracula" />
+  <img height="300" width="220" src="https://skillicons.dev/icons?i=python,linux,bash,git,kali,vscode,aws,docker,terraform,powershell,flask,azure&perline=3" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python;Linux;Bash;Git;Kali;VS+Code;AWS;Docker;Terraform;PowerShell;Flask;Azure&center=true&width=120&height=32" />
+</p>
 
-## Currently Working On
-- MS Cybersecurity & Information Assurance (WGU)
-- Active Directory automation with Python
-- Flask authentication and API security
-- Ansible and Terraform labs
